@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhappy_smp=self.webpackChunkhappy_smp||[]).push([[868],{7816:p=>{p.exports=JSON.parse('{"metadata":{"permalink":"/HappySMP/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
