@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhappy_smp=self.webpackChunkhappy_smp||[]).push([[1903],{1912:p=>{p.exports=JSON.parse('{"blogBasePath":"/HappySMP/blog","blogTitle":"Blog","authorsListPath":"/HappySMP/blog/authors"}')}}]);
