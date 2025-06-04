@@ -20,4 +20,4 @@ This is your central hub to explore all important topics and guides.
 ## New to Docusaurus?
 
 For a full beginner-friendly tutorial on how this documentation is built and maintained,  
-visit our [Getting Started Guide](./home.md).
+visit our [Getting Started Guide](./intro.md).
