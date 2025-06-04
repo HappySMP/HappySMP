@@ -2,9 +2,17 @@
 sidebar_position: 1
 ---
 
-# Ranks Overview
+# Staff Requirements
 
-Discover our rank system and what each rank means.  
-Learn how you can earn ranks and the perks that come with them.
+To maintain order and ensure all players have an enjoyable experience on HappySMP, staff members must meet specific requirements.
 
-Stay motivated and climb the ranks!
+#### Basic Requirements for All Staff Members
+
+* Must be at least **16 years old**
+* Maintain a **mature and responsible attitude**
+* Be **honest and reliable**
+* Stay **active** on the server
+* Have **Discord with a working microphone**
+* Be **friendly and respectful** towards all players
+* **Do not misuse** your rank or powers
+* **No active bans** on your name/account
