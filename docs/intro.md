@@ -16,8 +16,3 @@ This is your central hub to explore all important topics and guides.
 - [Moderation](./moderation/intro.md) — Find out about moderation and reporting.
 
 ---
-
-## New to Docusaurus?
-
-For a full beginner-friendly tutorial on how this documentation is built and maintained,  
-visit our [Getting Started Guide](./intro.md).
