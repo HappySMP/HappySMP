@@ -37,9 +37,6 @@ export default function Home() {
             <p>
               💡 Do you have suggestions or improvements for the Wiki? Contact <span className={styles.red}>Luke</span> or <span className={styles.red}>Sven</span>.
             </p>
-            <p className={styles.warning}>
-              👉 <strong>Click the button above or use the menu on the left to explore staff topics!</strong>
-            </p>
           </div>
         </div>
       </main>
