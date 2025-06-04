@@ -20,7 +20,7 @@ export default function Home() {
           </p>
 
           <img
-            src="../static/img/banner" // <- Replace with actual image path in /static/img/
+            src="https://i.ibb.co/qf3RgNY/image-2.png" // <- Replace with actual image path in /static/img/
             alt="Staff Image"
             className={styles.image}
           />
