@@ -5,7 +5,7 @@ sidebar_position: 1
 # Home
 
 
-:::info
+:::info{icon=false}  
 On the server, we have different staff ranks, each with specific responsibilities and permissions. These ranks help distribute tasks efficiently and ensure that every staff member understands their role. As you gain experience and demonstrate responsibility, you can progress to higher ranks with increased authority. Every rank plays a crucial role in maintaining order and ensuring that all players have a fun and fair experience on HappySMP.
 :::
 
@@ -26,6 +26,6 @@ To maintain order and ensure all players have an enjoyable experience on HappySM
 * **Do not misuse** your rank or powers
 * **No previous bans** on your name/account
 
-:::danger
+:::warning{icon=false}    
 All staff members are expected to follow these rules consistently. Failure to do so may result in punishment or demotion.
 :::
