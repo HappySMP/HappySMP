@@ -84,9 +84,27 @@ const config = {
         items: [
           {
             type: "docSidebar",
-            sidebarId: "tutorialSidebar",
+            sidebarId: "general",
             position: "left",
-            label: "Documentation",
+            label: "General",
+          },
+          {
+            type: "docSidebar",
+            sidebarId: "rank",
+            position: "left",
+            label: "Ranks",
+          },
+          {
+            type: "docSidebar",
+            sidebarId: "policies",
+            position: "left",
+            label: "Policies",
+          },
+          {
+            type: "docSidebar",
+            sidebarId: "moderation",
+            position: "left",
+            label: "Moderation",
           },
           {
             href: "https://happysmp.net/bugs",
