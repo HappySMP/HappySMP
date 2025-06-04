@@ -118,6 +118,11 @@ const config = {
           },
         ],
       },
+      colorMode: {
+        defaultMode: "dark", // default to dark mode
+        disableSwitch: false, // allow users to switch between dark/light mode
+        respectPrefersColorScheme: false, // respects the user's OS/browser preference
+      },
       footer: {
         style: "dark",
         links: [
