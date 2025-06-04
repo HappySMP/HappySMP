@@ -1,9 +1,11 @@
+// @ts-check
+
+/** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
   general: [
     {
       type: 'category',
       label: 'General',
-      position: 1,
       link: {
         type: 'generated-index',
         title: 'General Overview',
@@ -17,7 +19,6 @@ const sidebars = {
     {
       type: 'category',
       label: 'Ranks',
-      position: 1,
       link: {
         type: 'generated-index',
         title: 'Ranks Overview',
@@ -31,7 +32,6 @@ const sidebars = {
     {
       type: 'category',
       label: 'Policies',
-      position: 1,
       link: {
         type: 'generated-index',
         title: 'Policies & Rules',
@@ -45,7 +45,6 @@ const sidebars = {
     {
       type: 'category',
       label: 'Moderation',
-      position: 1,
       link: {
         type: 'generated-index',
         title: 'Moderation Guidelines',
